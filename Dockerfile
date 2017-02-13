@@ -1,3 +1,3 @@
 FROM ubuntu
 #ENV Container cmts-dhcp
-CMD /bin/bash -c "while true;do echo 'It is the cdman service - tag03'; sleep 1800;done"
+CMD /bin/bash -c "while true;do echo 'It is the cdman service - v04'; sleep 1800;done"
